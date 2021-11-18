@@ -1,5 +1,10 @@
 Hello there! I'm DeadPool3333, or most people call me Tony. (I am a he!)
 
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeadPool3333&theme=github_dark">
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DeadPool3333&theme=github_dark">
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DeadPool3333&theme=github_dark">
+
 **Hobies:**
 - I like to code some intreasting things in python.
 - Gives intrest in how to write code in some space which is clean + looks like professional. 
