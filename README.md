@@ -1,10 +1,5 @@
 Hello there! I'm DeadPool3333, or most people call me Tony. (I am a he!)
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeadPool3333&theme=github_dark">
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DeadPool3333&theme=github_dark">
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DeadPool3333&theme=github_dark">
-
 **Hobies:**
 - I like to code some intreasting things in python.
 - Gives intrest in how to write code in some space which is clean + looks like professional. 
@@ -30,3 +25,9 @@ If you ever need to contact me, you can find me through any of these:
 |[Discord](https://discord.com "Discord")                                            |`◥▶_ĐEAĐ PØØL_◀◤#9146`   |
 |[Github](https://github.com "Github")                                               |Your here!               |
 |[Instagram](https://instagram.com "Instagram") (I have a but it is private account) |None                     |
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeadPool3333&theme=github_dark">
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DeadPool3333&theme=github_dark">
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DeadPool3333&theme=github_dark">
+<img src = "https://activity-graph.herokuapp.com/graph?username=DeadPool3333&bg_color=0D1116&color=00ffff&line=00ffff&point=00ffff&hide_border=true&custom_title=DeadPool3333%27s%20Contributions">
